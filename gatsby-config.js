@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Fish Thoughts`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Anish Ravipati`,
+      summary: `who's a Wolverine studying CS, but loves to read, write, and watch TV.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Anish's personal blog`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      instagram: `fishy_nish`,
     },
   },
   plugins: [
