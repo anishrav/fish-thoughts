@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Fish Thoughts`,
+    title: `Lost in Masala`,
     author: {
       name: `Anish Ravipati`,
-      summary: `who's a Wolverine studying CS, but loves to read, write, and watch TV.`,
+      summary: `who is a Wolverine studying CS, but loves to read, write, and watch TV.`,
     },
     description: `Anish's personal blog`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
@@ -60,13 +60,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Lost in Masala`,
+        short_name: `LostInMasala`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/masala.png`,
       },
     },
     `gatsby-plugin-react-helmet`,

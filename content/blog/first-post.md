@@ -1,6 +1,7 @@
 ---
 title: My first post!
 date: 2020-04-12
+description: What's this blog for, you might ask?
 ---
 
 Hey y'all! This is the start of my brand new blog - I've been toying around with the idea of starting something like this to motivate me to write and get my thoughts out more for quite some time, and finally decided to pull the trigger.
