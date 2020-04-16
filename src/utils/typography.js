@@ -6,6 +6,12 @@ Wordpress2016.overrideThemeStyles = () => {
     "a.gatsby-resp-image-link": {
       boxShadow: `none`,
     },
+    "img, br, em": {
+      fontStyle: "normal",
+      display: "inherit",
+      textAlign: "center",
+      fontSize: "90%",
+    },
   }
 }
 
